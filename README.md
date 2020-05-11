@@ -6,3 +6,4 @@ For [Repo Naming](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/m
 
 # Useful Links
 * [Git For Ops People Podcast](https://packetpushers.net/podcast/day-two-cloud-043-git-for-ops-people/)
+* Power-up your README's with the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
