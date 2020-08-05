@@ -16,7 +16,7 @@ A place for best practice, hints and tips. Please feel free to contribute your o
 
 # Useful Links
 * [Introduction to GitHub](https://learngitbranching.js.org/)
-* [Power-up your README's with the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Power-up your README's with the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Online interactice branch tutorial](https://learngitbranching.js.org/)
 * [Git For Ops People Podcast](https://packetpushers.net/podcast/day-two-cloud-043-git-for-ops-people/)
 * [Learning Git Branching](https://learngitbranching.js.org/)
