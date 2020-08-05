@@ -1,8 +1,9 @@
 # its-github-guidance
-A place for best practice, hints and tips
+A place for best practice, hints and tips. Please feel free to contribute your own 
 
 # Conventions
 For [Repo Naming](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/Naming-Repos.md) use the `lowercase-and-dashes.git` pattern.
+R packages have their [own conventions](http://r-pkgs.had.co.nz/package.html) and do not permit dashes. Convention is to use one repo per package and use the same name. CamelCase is popular.
 
 # Suggested practises 
 * Use github.com as the master repo in most cases
