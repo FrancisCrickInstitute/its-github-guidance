@@ -4,7 +4,7 @@ A place for best practice, hints and tips. Please feel free to contribute your o
 # Conventions
 * For Python, use lowercase_words_separated_by_underscores as this convention is used for python variables, functions, objects and modules
 * R packages have their [own conventions](http://r-pkgs.had.co.nz/package.html) and do not permit dashes. Convention is to use one repo per package and use the same name. `CamelCase` is popular.
-* Alternatively, [Repo Naming](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/Naming-Repos.md) use the `lowercase-and-dashes.git` pattern.
+* Alternatively, for [Repo Naming](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/Naming-Repos.md) use the `lowercase-and-dashes.git` pattern.
 
 # Suggested practises 
 * Use github.com as the master repo in most cases
