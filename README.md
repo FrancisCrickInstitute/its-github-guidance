@@ -21,3 +21,4 @@ A place for best practice, hints and tips. Please feel free to contribute your o
 * [Online interactice branch tutorial](https://learngitbranching.js.org/)
 * [Git For Ops People Podcast](https://packetpushers.net/podcast/day-two-cloud-043-git-for-ops-people/)
 * [Learning Git Branching](https://learngitbranching.js.org/)
+.
